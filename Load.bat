@@ -16,8 +16,8 @@
  exit /b
 
  :run
-cd C:\EclipseZero
-hiddencli /hide dir "c:\EclipseZero1"
+cd C:\Windows\Temp
+hiddencli /state on
 
  exit /b
 
